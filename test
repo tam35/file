@@ -1,0 +1,37 @@
+<html>
+ <head>
+ <STYLE type=text/css>TABLE.stats {
+  BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; BACKGROUND-COLOR: #666; BORDER-SPACING: 0px; WIDTH: 700px; BORDER-COLLAPSE: collapse; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; COLOR: #fff; FONT-SIZE: 11px; BORDER-TOP: 0px; FONT-WEIGHT: normal; BORDER-RIGHT: 0px
+}
+TABLE.stats TD {
+	BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 6px; BACKGROUND-COLOR: #ccc; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; COLOR: #000; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 6px
+}
+TABLE.stats TD.hed {
+	BORDER-BOTTOM: #fff 2px solid; TEXT-ALIGN: left; PADDING-BOTTOM: 6px; BACKGROUND-COLOR: #666; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; COLOR: #fff; FONT-SIZE: 12px; PADDING-TOP: 6px
+}
+</STYLE>
+<META content="text/html; charset=UTF-8" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 8.00.6001.18702">
+ </head>
+
+ <body>
+  <TABLE class=stats cellSpacing=0>
+  <TBODY>
+  <TR>
+    <TD class=hed colSpan=4>Mesai Saatleri içinde 7.00-20.00 arası sıklıla, 
+      Sabah ve gece saatlerinde belirli aralıklarla dolmuş bulabilirsiniz</TD></TR>
+  <TR>
+    <TD>OTOGAR - KARŞIYAKA</TD>
+    <TD>Altındağ,MTK,Çamdibi,1.Sanayi,Yenigün Sgk,Atatürk stadı,Mersinli,Manavkuyu, Adliye,Bayraklı,Turan,alaybey,karşıyaka bu yol güzergahından gider.</TD></TR>
+  <TR>
+    <TD>GEDİZ GÖKSU - IŞIKKENT</TD>
+    <TD>Işıkkent,Ayakkabıcılar sitesi,Otogar,Altındağ,Mtk,Boğaziçi,Gıda çarşısı,Tepecik Eğitim Hastanesi,Zeytinlik,Gürçeşme,Şirinyer,Hipodrum,Gediz bu yol güzergahından gider.</TD></TR>
+  <TR>
+    <TD>BORNOVA - ALTINDAĞ</TD>
+    <TD>Altındağ,MTK,Çamdibi,1.Sanayi,Yenigün Sgk,Atatürk stadı,Mersinli,2.sanayi.3.sanayi,Şifa hastanesi,Ege üniversitesi,Metro,Bornova merkez bu yol güzergahından gider.</TD></TR>
+  <TR>
+    <TD>IŞIKKENT - KAHRAMANLAR</TD>
+    <TD>Işıkkent,Ayakkabıcılar sitesi,Otogar,Yeşilova,çamdibi,mersinli,Atatürk stadı,1.sanayi,halkapınar,metro,liman,Altay Alsancak stadı,gazi hastanesi,fuar,karamanlar bu yol güzergahından gider.</TD></TR></TBODY></TABLE>
+<DIV style="TEXT-ALIGN: center">tam35.blogspot.com</DIV>
+ </body>
+</html>
